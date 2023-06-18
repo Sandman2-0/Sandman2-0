@@ -1,4 +1,4 @@
-<h1 align="center">Howdy!👋, I'm Sandman</h1>
+<h1 align="center">Howdy👋, I'm Sandman</h1>
 <h3 align="center">I'm a small developer who's interested in technology and business.</h3>
 
 <h3 align="center">https://sandman2-0.com/ | https://sorrowmods.com/</h3>
